@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 tran van hung
 ngày sinh 12092002
 
+=======
+>>>>>>> parent of ffcedd7 (add1)
